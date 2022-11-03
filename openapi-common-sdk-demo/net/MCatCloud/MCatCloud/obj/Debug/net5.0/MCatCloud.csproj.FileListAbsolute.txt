@@ -1,0 +1,12 @@
+D:\serverless\core\demo\MCatCloud\MCatCloud\bin\Debug\net5.0\MCatCloud.deps.json
+D:\serverless\core\demo\MCatCloud\MCatCloud\bin\Debug\net5.0\MCatCloud.dll
+D:\serverless\core\demo\MCatCloud\MCatCloud\bin\Debug\net5.0\MCatCloud.pdb
+D:\serverless\core\demo\MCatCloud\MCatCloud\obj\Debug\net5.0\MCatCloud.csproj.AssemblyReference.cache
+D:\serverless\core\demo\MCatCloud\MCatCloud\obj\Debug\net5.0\MCatCloud.GeneratedMSBuildEditorConfig.editorconfig
+D:\serverless\core\demo\MCatCloud\MCatCloud\obj\Debug\net5.0\MCatCloud.AssemblyInfoInputs.cache
+D:\serverless\core\demo\MCatCloud\MCatCloud\obj\Debug\net5.0\MCatCloud.AssemblyInfo.cs
+D:\serverless\core\demo\MCatCloud\MCatCloud\obj\Debug\net5.0\MCatCloud.csproj.CoreCompileInputs.cache
+D:\serverless\core\demo\MCatCloud\MCatCloud\obj\Debug\net5.0\MCatCloud.dll
+D:\serverless\core\demo\MCatCloud\MCatCloud\obj\Debug\net5.0\MCatCloud.pdb
+D:\serverless\core\demo\MCatCloud\MCatCloud\obj\Debug\net5.0\ref\MCatCloud.dll
+D:\serverless\core\demo\MCatCloud\MCatCloud\bin\Debug\net5.0\ref\MCatCloud.dll
