@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\serverless\\core\\demo\\MCatCloud\\MCatCloud\\MCatCloud.csproj": {}
+    "D:\\serverless\\mcat\\openapi-common-sdk\\openapi-common-sdk-demo\\net\\MCatCloud\\MCatCloud\\MCatCloud.csproj": {}
   },
   "projects": {
-    "D:\\serverless\\core\\demo\\MCatCloud\\MCatCloud\\MCatCloud.csproj": {
+    "D:\\serverless\\mcat\\openapi-common-sdk\\openapi-common-sdk-demo\\net\\MCatCloud\\MCatCloud\\MCatCloud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\serverless\\core\\demo\\MCatCloud\\MCatCloud\\MCatCloud.csproj",
+        "projectUniqueName": "D:\\serverless\\mcat\\openapi-common-sdk\\openapi-common-sdk-demo\\net\\MCatCloud\\MCatCloud\\MCatCloud.csproj",
         "projectName": "MCatCloud",
-        "projectPath": "D:\\serverless\\core\\demo\\MCatCloud\\MCatCloud\\MCatCloud.csproj",
+        "projectPath": "D:\\serverless\\mcat\\openapi-common-sdk\\openapi-common-sdk-demo\\net\\MCatCloud\\MCatCloud\\MCatCloud.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\serverless\\core\\demo\\MCatCloud\\MCatCloud\\obj\\",
+        "outputPath": "D:\\serverless\\mcat\\openapi-common-sdk\\openapi-common-sdk-demo\\net\\MCatCloud\\MCatCloud\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
@@ -23,7 +26,9 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "http://192.168.3.168:8989/nuget": {},
+          "http://192.168.3.168:8999/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +58,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -62,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -126,7 +126,10 @@ import java.util.HashMap;
             String canonical_uri = url;
             String canonical_querystring = "";
             String user_key = this.credential.getSecretId();
-            String payload_hash = SignHelper.getMD5Str(requestPayload);
+           //没有自动补0
+            // String payload_hash = SignHelper.getMD5Str(requestPayload);
+            //MD5Encrypt2
+            String payload_hash = SignHelper.MD5Encrypt2(requestPayload);
             String canonical_headers = "content-type:" + contentType + "\n" + "host:" + endpoint;
 
 
